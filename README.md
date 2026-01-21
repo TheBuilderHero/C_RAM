@@ -1,5 +1,7 @@
 # C_RAM
-Developing a working small scale airsoft version of a military C-RAM unit.
+Developing a working small scale airsoft version of a military C-RAM System.
+
+The essential idea is chick defense from hawks. But inital testing and calibration was done with the letter X written on different surfaces.
 
 
 Link to documentation:
