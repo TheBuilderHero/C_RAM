@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
 
-SoftwareSerial niclaSerial(2, 3); //(RX, TX) so Nicla TX1 -> RX 'D2' and Nicla RX1 -> TX 'D3'
+SoftwareSerial niclaSerial(4, 7); //(RX, TX) so Nicla TX1 -> RX 'D2' and Nicla RX1 -> TX 'D3'
 
 void setup() {
   Serial.begin(19200);
